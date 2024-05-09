@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="30%" height="auto">
   </a>
 
-<h3 align="center">TasksProgressBar</h3>
+<h3 align="center">Obsidian ProgressBar</h3>
 
   <p align="center">
     Tracking tasks with a progress bar with Obsidian
